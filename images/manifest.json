@@ -7,5 +7,87 @@
             "All images loaded in dcastros128/project_1 project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://dcastros128.github.io/project_1/images/mourekaj-001-001/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "mourekaj-001-001"
+                ]
+            },
+            "height": 8650,
+            "width": 5778,
+            "items": [
+                {
+                    "id": "https://dcastros128.github.io/project_1/images/mourekaj-001-001/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://dcastros128.github.io/project_1/images/mourekaj-001-001/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://dcastros128.github.io/project_1/images/mourekaj-001-001/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 181,
+                                                "height": 271
+                                            },
+                                            {
+                                                "width": 362,
+                                                "height": 541
+                                            },
+                                            {
+                                                "width": 723,
+                                                "height": 1082
+                                            },
+                                            {
+                                                "width": 1445,
+                                                "height": 2163
+                                            },
+                                            {
+                                                "width": 2889,
+                                                "height": 4325
+                                            },
+                                            {
+                                                "width": 5778,
+                                                "height": 8650
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5778,
+                                        "@id": "https://dcastros128.github.io/project_1/images/mourekaj-001-001",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 8650,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://dcastros128.github.io/project_1/images/mourekaj-001-001/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
