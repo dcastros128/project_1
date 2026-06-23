@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 182,
+    "height" : 270
+  }, {
+    "width" : 364,
+    "height" : 539
+  }, {
+    "width" : 728,
+    "height" : 1077
+  }, {
+    "width" : 1455,
+    "height" : 2154
+  }, {
+    "width" : 2909,
+    "height" : 4307
+  }, {
+    "width" : 5817,
+    "height" : 8614
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5817,
+  "@id" : "https://dcastros128.github.io/project_1/images/mourekaj-001-002",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 8614
+}
