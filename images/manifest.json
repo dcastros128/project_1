@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://dcastros128.github.io/project_1/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in dcastros128/project_1 project"
+        ]
+    },
+    "items": []
+}
