@@ -1,0 +1,13 @@
+{
+  "id" : "https://dcastros128.github.io/project_1/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in dcastros128/project_1 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://dcastros128.github.io/project_1/manifests/manifest2.json",
+    "label" : null,
+    "type" : "Manifest"
+  } ]
+}
