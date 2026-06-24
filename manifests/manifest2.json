@@ -1,0 +1,69 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://dcastros128.github.io/project_1/manifests/manifest2.json",
+  "type" : "Manifest",
+  "rights" : "http://creativecommons.org/licenses/by/4.0/",
+  "behavior" : [ "continuous" ],
+  "requiredStatement" : {
+    "label" : {
+      "en" : [ "Attribution" ]
+    },
+    "value" : {
+      "en" : [ "Provided courtesy of University of Chicago" ]
+    }
+  },
+  "summary" : {
+    "en" : [ "This is a manifest for the Mourekaj collection, which contains two canvases representing different images. Each canvas has its own annotation page and associated image." ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/mqjkwc9v54-mqs8et7v/canvas/tyekyx9km3-mqs8fd1l",
+    "type" : "Canvas",
+    "height" : 8650,
+    "width" : 5778,
+    "label" : {
+      "en" : [ "mourekaj 1" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/mqjkwc9v54-mqs8et7v/canvas/tyekyx9km3-mqs8fd1l/annotation-page/19oefajnrup-mqs8fd1l",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/mqjkwc9v54-mqs8et7v/annotation/52dea7t5gug-mqs8fcyp",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/mqjkwc9v54-mqs8et7v/canvas/tyekyx9km3-mqs8fd1l",
+        "body" : {
+          "id" : "https://dcastros128.github.io/project_1/images/mourekaj-001-001/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 8650,
+          "width" : 5778
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/mqjkwc9v54-mqs8et7v/canvas/enshbvhtu8q-mqs8fx18",
+    "type" : "Canvas",
+    "height" : 8614,
+    "width" : 5817,
+    "label" : {
+      "en" : [ "mourekaj 2" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/mqjkwc9v54-mqs8et7v/canvas/enshbvhtu8q-mqs8fx18/annotation-page/ci19m0yp6u4-mqs8fx18",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/mqjkwc9v54-mqs8et7v/annotation/h122getwiwk-mqs8fwc9",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/mqjkwc9v54-mqs8et7v/canvas/enshbvhtu8q-mqs8fx18",
+        "body" : {
+          "id" : "https://dcastros128.github.io/project_1/images/mourekaj-001-002/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 8614,
+          "width" : 5817
+        }
+      } ]
+    } ]
+  } ]
+}
