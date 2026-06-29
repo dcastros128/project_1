@@ -1,0 +1,67 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://dcastros128.github.io/project_1/manifests/manifest.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Anthony J. Mourek Collection of Japanese Prints" ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/4u8lusayqsl-mqto028t/canvas/9l6ja2lxs15-mqto0id1",
+    "type" : "Painting",
+    "height" : 8650,
+    "width" : 5778,
+    "label" : {
+      "en" : [ "A Mirror of the Famous Military & Naval Heroes of the Sino Japanese War" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Title Sheet for the Series" ]
+      },
+      "value" : {
+        "en" : [ "A Mirror of the Famous Military & Naval Heroes of the Sino Japanese War" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Description" ]
+      },
+      "value" : {
+        "en" : [ "Inscriptions: [Upper-right] Title; [Center] Names of the officers featured in the series; [Down-middle] 東都日報片足従軍記者関戸愛之郎 (The one-legged war correspondent); [Down-right] Artist's seal; [Left] Publisher (Inoue Kichijirō 井上吉次郎); Date and location of production" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Title (Japanese):" ]
+      },
+      "value" : {
+        "en" : [ "陸海軍人高名鑑：目録" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Creator" ]
+      },
+      "value" : {
+        "en" : [ "Kobayashi Kiyochika 小林清親 (Japanese artist, 1847-1915)" ]
+      }
+    } ],
+    "summary" : {
+      "en" : [ "" ]
+    },
+    "rights" : "http://creativecommons.org/licenses/by/4.0/",
+    "items" : [ {
+      "id" : "https://example.org/4u8lusayqsl-mqto028t/canvas/9l6ja2lxs15-mqto0id1/annotation-page/z6d3oav5jx-mqto0id1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/4u8lusayqsl-mqto028t/annotation/eooesacbzc5-mqto0icw",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/4u8lusayqsl-mqto028t/canvas/9l6ja2lxs15-mqto0id1",
+        "body" : {
+          "id" : "https://dcastros128.github.io/project_1/images/mourekaj-001-001/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 8650,
+          "width" : 5778
+        }
+      } ]
+    } ]
+  } ]
+}
