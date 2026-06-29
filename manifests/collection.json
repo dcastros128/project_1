@@ -9,5 +9,11 @@
     "id" : "https://dcastros128.github.io/project_1/manifests/manifest2.json",
     "label" : null,
     "type" : "Manifest"
+  }, {
+    "id" : "https://dcastros128.github.io/project_1/manifests/manifest.json",
+    "label" : {
+      "en" : [ "Anthony J. Mourek Collection of Japanese Prints" ]
+    },
+    "type" : "Manifest"
   } ]
 }
