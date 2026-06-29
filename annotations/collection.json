@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://dcastros128.github.io/project_1/annotations/2dd3e09e704fceaa75702e13a115507f.json" ],
+  "@id" : "https://dcastros128.github.io/project_1/annotations/collection.json",
+  "label" : "All annotations loaded in dcastros128/project_1 project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
